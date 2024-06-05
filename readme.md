@@ -10,7 +10,17 @@ The objective of this project is to develop a content-based movie recommender sy
 
 ### Dataset:
 
-The dataset utilized for this project is sourced from [Kaggle](https://www.kaggle.com/datasets/andrezaza/clapper-massive-rotten-tomatoes-movies-and-reviews/data) and comprises two main components:
+The dataset used for this project is sourced from [Kaggle](https://www.kaggle.com/datasets/andrezaza/clapper-massive-rotten-tomatoes-movies-and-reviews/data)
+
+- Get the dataset by one of the following ways:
+  - Run the following commands in your terminal and unzip the package:
+    - ```pip install kaggle``` and then ```kaggle datasets download -d andrezaza/clapper-massive-rotten-tomatoes-movies-and-reviews```
+
+  - If you are using **linux / mac** use the **rotten_tomatoes_movie.tar.xz** available in the repo and unzip it.
+
+  - If you are using **windows / mac** use the **rotten_tomatoes_movie.7z** available in the repo and unzip it.
+
+The dataset comprises two main components:
 
 **1. Rotten Tomatoes Movies Dataset (rotten_tomatoes_movies.csv):**
    - **id:** Unique identifier for each movie.
