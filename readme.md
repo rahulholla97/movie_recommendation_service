@@ -19,6 +19,8 @@ The dataset used for this project is sourced from [Kaggle](https://www.kaggle.co
   - If you are using **linux / mac** use the **rotten_tomatoes_movie.tar.xz** available in the repo and unzip it.
 
   - If you are using **windows / mac** use the **rotten_tomatoes_movie.7z** available in the repo and unzip it.
+  
+- Make sure to move the unzipped dataset files into the same directory as the source code.
 
 The dataset comprises two main components:
 
